@@ -8,3 +8,8 @@
 	url = https://github.com/federicogiorgi/corto
 	shallow = true
 	registered = true
+[submodule "vulcan"]
+	path = vulcan
+	url = https://git.bioconductor.org/packages/vulcan
+	shallow = true
+	registered = true
