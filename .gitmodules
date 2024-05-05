@@ -5,6 +5,3 @@
 [submodule "corto"]
 	path = corto
 	url = https://github.com/federicogiorgi/corto
-[submodule "vulcan"]
-	path = vulcan
-	url = https://git.bioconductor.org/packages/vulcan
